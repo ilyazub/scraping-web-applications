@@ -7,12 +7,14 @@ description: This page contains an outline for the book to be written.
 By the end of this chapter, you will:
 
 * Gain a clear understanding of what web scraping is and its practical applications
-* Recognize the challenges of scraping single page applications (SPA), particularly for readers with limited front-end development knowledge
-* Understand the structure and organization of this book, including the objectives of each chapter and how they fit together to form a comprehensive guide to web scraping of JavaScript applications
+* Recognize the challenges of scraping web applications, particularly for readers with limited front-end development knowledge
+* Understand the structure and organization of this book, including the objectives of each chapter and how they fit together to form a comprehensive guide to scraping of web applications
 
 ## The Value of Web Scraping
 
 Introduce the concept of web scraping and explain its practical applications across various industries. Share examples of how businesses, researchers, and individuals can benefit from web scraping, and discuss how it can provide a competitive advantage.
+
+Differences of scraping between web pages and web applications
 
 ### What is Web Scraping?
 
