@@ -30,7 +30,7 @@ description: An outline for the book to be written.
 6. Legal and Ethical Considerations
    * Understanding the legality of web scraping and its potential ethical implications
    * Set a SMART goal for understanding legal and ethical considerations for web scraping
-   * Allocate time each week to experiment with different web scraping tools and build mini-projects to reinforce your learning.
+   * Stay informed about web scraping regulations and ethical guidelines by following industry news and participating in relevant online communities.
 7. Alternatives to Web Scraping
    * Understanding when web scraping is not the best option
    * Introduction to APIs and other data sources
