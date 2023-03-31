@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Outline](README.md)
